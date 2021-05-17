@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/alpha/jim/backend_redesign/static/css/main.d4f20f3a.chunk.css",
+    "main.js": "/alpha/jim/backend_redesign/static/js/main.a1de1162.chunk.js",
+    "main.js.map": "/alpha/jim/backend_redesign/static/js/main.a1de1162.chunk.js.map",
+    "runtime-main.js": "/alpha/jim/backend_redesign/static/js/runtime-main.9afc58a7.js",
+    "runtime-main.js.map": "/alpha/jim/backend_redesign/static/js/runtime-main.9afc58a7.js.map",
+    "static/css/2.a288f136.chunk.css": "/alpha/jim/backend_redesign/static/css/2.a288f136.chunk.css",
+    "static/js/2.12651a03.chunk.js": "/alpha/jim/backend_redesign/static/js/2.12651a03.chunk.js",
+    "static/js/2.12651a03.chunk.js.map": "/alpha/jim/backend_redesign/static/js/2.12651a03.chunk.js.map",
+    "static/js/3.45c3c030.chunk.js": "/alpha/jim/backend_redesign/static/js/3.45c3c030.chunk.js",
+    "static/js/3.45c3c030.chunk.js.map": "/alpha/jim/backend_redesign/static/js/3.45c3c030.chunk.js.map",
+    "index.html": "/alpha/jim/backend_redesign/index.html",
+    "static/css/2.a288f136.chunk.css.map": "/alpha/jim/backend_redesign/static/css/2.a288f136.chunk.css.map",
+    "static/css/main.d4f20f3a.chunk.css.map": "/alpha/jim/backend_redesign/static/css/main.d4f20f3a.chunk.css.map",
+    "static/js/2.12651a03.chunk.js.LICENSE.txt": "/alpha/jim/backend_redesign/static/js/2.12651a03.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/alpha/jim/backend_redesign/static/media/outline-icons.f4f60ace.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9afc58a7.js",
+    "static/css/2.a288f136.chunk.css",
+    "static/js/2.12651a03.chunk.js",
+    "static/css/main.d4f20f3a.chunk.css",
+    "static/js/main.a1de1162.chunk.js"
+  ]
+}

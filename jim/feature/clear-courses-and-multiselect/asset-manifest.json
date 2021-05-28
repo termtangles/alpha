@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/alpha/jim/feature/clear-courses-and-multiselect/static/css/main.d4f20f3a.chunk.css",
-    "main.js": "/alpha/jim/feature/clear-courses-and-multiselect/static/js/main.36b1ed07.chunk.js",
-    "main.js.map": "/alpha/jim/feature/clear-courses-and-multiselect/static/js/main.36b1ed07.chunk.js.map",
+    "main.js": "/alpha/jim/feature/clear-courses-and-multiselect/static/js/main.3d7f8bf3.chunk.js",
+    "main.js.map": "/alpha/jim/feature/clear-courses-and-multiselect/static/js/main.3d7f8bf3.chunk.js.map",
     "runtime-main.js": "/alpha/jim/feature/clear-courses-and-multiselect/static/js/runtime-main.47792a86.js",
     "runtime-main.js.map": "/alpha/jim/feature/clear-courses-and-multiselect/static/js/runtime-main.47792a86.js.map",
     "static/css/2.305d9050.chunk.css": "/alpha/jim/feature/clear-courses-and-multiselect/static/css/2.305d9050.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.305d9050.chunk.css",
     "static/js/2.5c865999.chunk.js",
     "static/css/main.d4f20f3a.chunk.css",
-    "static/js/main.36b1ed07.chunk.js"
+    "static/js/main.3d7f8bf3.chunk.js"
   ]
 }

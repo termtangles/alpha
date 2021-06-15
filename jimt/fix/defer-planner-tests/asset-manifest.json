@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/alpha/jimt/fix/defer-planner-tests/static/css/main.d4f20f3a.chunk.css",
+    "main.js": "/alpha/jimt/fix/defer-planner-tests/static/js/main.15185993.chunk.js",
+    "main.js.map": "/alpha/jimt/fix/defer-planner-tests/static/js/main.15185993.chunk.js.map",
+    "runtime-main.js": "/alpha/jimt/fix/defer-planner-tests/static/js/runtime-main.038835bb.js",
+    "runtime-main.js.map": "/alpha/jimt/fix/defer-planner-tests/static/js/runtime-main.038835bb.js.map",
+    "static/css/2.dc47f0fd.chunk.css": "/alpha/jimt/fix/defer-planner-tests/static/css/2.dc47f0fd.chunk.css",
+    "static/js/2.7df84aa7.chunk.js": "/alpha/jimt/fix/defer-planner-tests/static/js/2.7df84aa7.chunk.js",
+    "static/js/2.7df84aa7.chunk.js.map": "/alpha/jimt/fix/defer-planner-tests/static/js/2.7df84aa7.chunk.js.map",
+    "static/js/3.8950a549.chunk.js": "/alpha/jimt/fix/defer-planner-tests/static/js/3.8950a549.chunk.js",
+    "static/js/3.8950a549.chunk.js.map": "/alpha/jimt/fix/defer-planner-tests/static/js/3.8950a549.chunk.js.map",
+    "index.html": "/alpha/jimt/fix/defer-planner-tests/index.html",
+    "static/css/2.dc47f0fd.chunk.css.map": "/alpha/jimt/fix/defer-planner-tests/static/css/2.dc47f0fd.chunk.css.map",
+    "static/css/main.d4f20f3a.chunk.css.map": "/alpha/jimt/fix/defer-planner-tests/static/css/main.d4f20f3a.chunk.css.map",
+    "static/js/2.7df84aa7.chunk.js.LICENSE.txt": "/alpha/jimt/fix/defer-planner-tests/static/js/2.7df84aa7.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/alpha/jimt/fix/defer-planner-tests/static/media/outline-icons.f4f60ace.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.038835bb.js",
+    "static/css/2.dc47f0fd.chunk.css",
+    "static/js/2.7df84aa7.chunk.js",
+    "static/css/main.d4f20f3a.chunk.css",
+    "static/js/main.15185993.chunk.js"
+  ]
+}

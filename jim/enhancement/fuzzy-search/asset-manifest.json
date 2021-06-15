@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/alpha/jim/enhancement/fuzzy-search/static/css/main.d4f20f3a.chunk.css",
-    "main.js": "/alpha/jim/enhancement/fuzzy-search/static/js/main.1bda65e6.chunk.js",
-    "main.js.map": "/alpha/jim/enhancement/fuzzy-search/static/js/main.1bda65e6.chunk.js.map",
-    "runtime-main.js": "/alpha/jim/enhancement/fuzzy-search/static/js/runtime-main.49685830.js",
-    "runtime-main.js.map": "/alpha/jim/enhancement/fuzzy-search/static/js/runtime-main.49685830.js.map",
+    "main.js": "/alpha/jim/enhancement/fuzzy-search/static/js/main.0b4e5244.chunk.js",
+    "main.js.map": "/alpha/jim/enhancement/fuzzy-search/static/js/main.0b4e5244.chunk.js.map",
+    "runtime-main.js": "/alpha/jim/enhancement/fuzzy-search/static/js/runtime-main.5c4d337a.js",
+    "runtime-main.js.map": "/alpha/jim/enhancement/fuzzy-search/static/js/runtime-main.5c4d337a.js.map",
     "static/css/2.e43c0b17.chunk.css": "/alpha/jim/enhancement/fuzzy-search/static/css/2.e43c0b17.chunk.css",
-    "static/js/2.1cd75268.chunk.js": "/alpha/jim/enhancement/fuzzy-search/static/js/2.1cd75268.chunk.js",
-    "static/js/2.1cd75268.chunk.js.map": "/alpha/jim/enhancement/fuzzy-search/static/js/2.1cd75268.chunk.js.map",
-    "static/js/3.73eeda11.chunk.js": "/alpha/jim/enhancement/fuzzy-search/static/js/3.73eeda11.chunk.js",
-    "static/js/3.73eeda11.chunk.js.map": "/alpha/jim/enhancement/fuzzy-search/static/js/3.73eeda11.chunk.js.map",
+    "static/js/2.e93c3df1.chunk.js": "/alpha/jim/enhancement/fuzzy-search/static/js/2.e93c3df1.chunk.js",
+    "static/js/2.e93c3df1.chunk.js.map": "/alpha/jim/enhancement/fuzzy-search/static/js/2.e93c3df1.chunk.js.map",
+    "static/js/3.d9667ec3.chunk.js": "/alpha/jim/enhancement/fuzzy-search/static/js/3.d9667ec3.chunk.js",
+    "static/js/3.d9667ec3.chunk.js.map": "/alpha/jim/enhancement/fuzzy-search/static/js/3.d9667ec3.chunk.js.map",
     "index.html": "/alpha/jim/enhancement/fuzzy-search/index.html",
     "static/css/2.e43c0b17.chunk.css.map": "/alpha/jim/enhancement/fuzzy-search/static/css/2.e43c0b17.chunk.css.map",
     "static/css/main.d4f20f3a.chunk.css.map": "/alpha/jim/enhancement/fuzzy-search/static/css/main.d4f20f3a.chunk.css.map",
-    "static/js/2.1cd75268.chunk.js.LICENSE.txt": "/alpha/jim/enhancement/fuzzy-search/static/js/2.1cd75268.chunk.js.LICENSE.txt",
+    "static/js/2.e93c3df1.chunk.js.LICENSE.txt": "/alpha/jim/enhancement/fuzzy-search/static/js/2.e93c3df1.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/alpha/jim/enhancement/fuzzy-search/static/media/outline-icons.f4f60ace.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.49685830.js",
+    "static/js/runtime-main.5c4d337a.js",
     "static/css/2.e43c0b17.chunk.css",
-    "static/js/2.1cd75268.chunk.js",
+    "static/js/2.e93c3df1.chunk.js",
     "static/css/main.d4f20f3a.chunk.css",
-    "static/js/main.1bda65e6.chunk.js"
+    "static/js/main.0b4e5244.chunk.js"
   ]
 }

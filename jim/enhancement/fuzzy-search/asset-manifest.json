@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/alpha/jim/enhancement/fuzzy-search/static/css/main.d4f20f3a.chunk.css",
-    "main.js": "/alpha/jim/enhancement/fuzzy-search/static/js/main.a62f4a63.chunk.js",
-    "main.js.map": "/alpha/jim/enhancement/fuzzy-search/static/js/main.a62f4a63.chunk.js.map",
+    "main.js": "/alpha/jim/enhancement/fuzzy-search/static/js/main.3c5bf749.chunk.js",
+    "main.js.map": "/alpha/jim/enhancement/fuzzy-search/static/js/main.3c5bf749.chunk.js.map",
     "runtime-main.js": "/alpha/jim/enhancement/fuzzy-search/static/js/runtime-main.5c4d337a.js",
     "runtime-main.js.map": "/alpha/jim/enhancement/fuzzy-search/static/js/runtime-main.5c4d337a.js.map",
     "static/css/2.e43c0b17.chunk.css": "/alpha/jim/enhancement/fuzzy-search/static/css/2.e43c0b17.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.e43c0b17.chunk.css",
     "static/js/2.e93c3df1.chunk.js",
     "static/css/main.d4f20f3a.chunk.css",
-    "static/js/main.a62f4a63.chunk.js"
+    "static/js/main.3c5bf749.chunk.js"
   ]
 }
